@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f1e9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    transition: all 0.3s ease;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(212, 175, 55, 0.25);
+}
+
+.btn-gold {
+    background-color: #d4af37;
+    color: white;
+    font-weight: 500;
+}
+
+.btn-gold:hover {
+    background-color: #b8972e;
+    color: white;
+}
+
+.product-img {
+    height: 220px;
+    object-fit: cover;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.4rem;
+}
