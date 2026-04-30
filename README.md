@@ -16,7 +16,6 @@ Un mini site e-commerce de bijoux élégants développé en **PHP 8 + MySQL** av
 - Messages de confirmation
 - Design responsive et élégant (Bootstrap + style or)
 
----
 
 ## Technologies utilisées
 
@@ -25,6 +24,12 @@ Un mini site e-commerce de bijoux élégants développé en **PHP 8 + MySQL** av
 - **Bootstrap 5** (frontend)
 - **HTML5 & CSS3**
 
----
 
-## 📂 Structure du projet
+
+ase de données
+La base s’appelle panier_bijoux et contient :
+
+Table categories
+Table produits
+Table commandes
+Table commande_details
