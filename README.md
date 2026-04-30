@@ -26,7 +26,7 @@ Un mini site e-commerce de bijoux élégants développé en **PHP 8 + MySQL** av
 
 
 
-ase de données
+Base de données
 La base s’appelle panier_bijoux et contient :
 
 Table categories
